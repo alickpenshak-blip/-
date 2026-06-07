@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Account Tracker & Notes Database",
+  "description": "Приложение для отслеживания Instagram-аккаунтов с детальными карточками профиля, заметками, списками задач и экспортом базы данных.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
